@@ -1,4 +1,5 @@
 # Exercice Première page
+Passer d'une page HTML à une page PHP.
 
 ## Préparation
 1. Téléchargez le dossier `premierepage-depart` et mettez-le sur le disque `D:`. Il s’agit de l’application Web que vous devez faire.
@@ -9,9 +10,12 @@
     ```
 1. Visionner le projet dans le fureteur à l'adresse `http://localhost:8000`
 1. Commencer par le fichier `page1.php` et suivre les indications ci-dessous.
+1. _Note_: Après chaque étape, visionner le code source de la page.
 
 ## Fichier page1.php
-1. But: Transformer cette page pour qu'il n'y ait plus que du PHP.
+1. But: Transformer une page HTML page pour qu'il n'y ait plus que du PHP.
+1. Prendre le code HTML de la page `index.html` et le coller dans le fichier `page1.php`.
+1. Ajouter la balise ouvrante de PHP.
 1. Faire un `echo` pour chacune des lignes de la page.
 
 ## Fichier page2.php
