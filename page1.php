@@ -7,5 +7,6 @@ echo '<title>Document sans titre</title>';
 echo '</head>';
 echo '';
 echo '<body>';
+echo 'Ceci est une page PHP';
 echo '</body>';
 echo '</html>';

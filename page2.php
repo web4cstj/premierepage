@@ -8,6 +8,7 @@ $affichage .= '<title>Document sans titre</title>';
 $affichage .= '</head>';
 $affichage .= '';
 $affichage .= '<body>';
+$affichage .= 'Ceci est une page PHP';
 $affichage .= '</body>';
 $affichage .= '</html>';
 echo $affichage;

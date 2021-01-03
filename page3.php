@@ -9,6 +9,7 @@ function affichagePage() {
     $affichage .= '</head>';
     $affichage .= '';
     $affichage .= '<body>';
+    $affichage .= 'Ceci est une page PHP';
     $affichage .= '</body>';
     $affichage .= '</html>';
     return $affichage;
